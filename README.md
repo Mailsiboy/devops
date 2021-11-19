@@ -9,3 +9,5 @@ this is a the first step towards DEVOPs
 
 ## Contribute
 
+BALH BLAH BLAH
+Contribute here
